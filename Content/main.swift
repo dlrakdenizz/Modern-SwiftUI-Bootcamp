@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
+personalInfoCard()
+Calculator(3.5, 9.3, operation: "*")
+filterAndSort(array: [3,9,19,293,4893,9844,37829,892,33])
